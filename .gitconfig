@@ -1,0 +1,23 @@
+[user]
+	name = Alexey Zlobin
+	email = alexey.zlobin@gmail.com
+[color]
+    diff=auto
+    interactive=auto
+    branch=auto
+    ui=true
+[color "status"]
+    added=green
+    changed=magenta
+    untracked=yellow
+[core]
+    autocrlf=false
+[alias]
+    st=status
+    co=checkout
+    ci=commit
+    nb=checkout -b
+    amend=commit --amend
+    iadd=add -i
+[github]
+	user = CheatEx
