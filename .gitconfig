@@ -19,5 +19,6 @@
     nb=checkout -b
     amend=commit --amend
     iadd=add -i
+    br=branch
 [github]
 	user = CheatEx

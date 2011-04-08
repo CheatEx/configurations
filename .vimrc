@@ -5,3 +5,4 @@ set ts=4
 set expandtab
 set showcmd
 set nocompatible
+set number
