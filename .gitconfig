@@ -20,5 +20,6 @@
     amend=commit --amend
     iadd=add -i
     br=branch
+    pretty-log=log --pretty=oneline --decorate --graph
 [github]
 	user = CheatEx
