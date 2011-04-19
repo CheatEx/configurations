@@ -79,5 +79,7 @@ fi
 
 export PATH=$PATH:~/bin
 export JDK_HOME="/usr/lib/jvm/java-6-sun/"
+export EDITOR='vim'
+export VIEWER='less'
 export TERM='xterm'
 export PS1='\[\033[01m\]\u@\h:\w$(__git_ps1 "\[\033[01;35m\][%s]\[\033[00m\]")\$\[\033[00m\] '
