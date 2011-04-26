@@ -6,3 +6,5 @@ set expandtab
 set showcmd
 set nocompatible
 set number
+syn on
+
