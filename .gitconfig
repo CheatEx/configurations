@@ -1,6 +1,6 @@
 [user]
-	name = Alexey Zlobin
-	email = alexey.zlobin@gmail.com
+    name = Alexey Zlobin
+    email = alexey.zlobin@gmail.com
 [color]
     diff=auto
     interactive=auto
@@ -20,6 +20,8 @@
     amend=commit --amend
     iadd=add -i
     br=branch
-    pretty-log=log --pretty=oneline --decorate --graph
+    pretty-log=log --oneline --decorate --graph
+    ff=merge --ff-only
 [github]
-	user = CheatEx
+    user = CheatEx
+
