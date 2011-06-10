@@ -22,6 +22,8 @@
     br=branch
     pretty-log=log --oneline --decorate --graph
     ff=merge --ff-only
+    pull-ff=pull --ff-only
+    dc = diff --cached
 [github]
     user = CheatEx
 
