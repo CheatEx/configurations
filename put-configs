@@ -1,3 +1,5 @@
+#!/bin/bash
+
 FILES=".bash_aliases .bashrc .gitconfig .vimrc"
 for FILE in $FILES
 do
