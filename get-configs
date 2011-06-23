@@ -1,0 +1,6 @@
+FILES=".bash_aliases .bashrc .gitconfig .vimrc"
+for FILE in $FILES
+do
+    cp ~/$FILE ./$FILE
+    echo "$FILE copied"
+done
