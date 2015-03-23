@@ -26,4 +26,6 @@
     dc = diff --cached
 [github]
     user = CheatEx
+[push]
+    default = simple
 
